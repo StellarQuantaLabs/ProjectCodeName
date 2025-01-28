@@ -144,7 +144,7 @@ Name Excel Spreadsheet: "Project_Codename_Generator.xlsm"
 
 ![image](https://github.com/user-attachments/assets/84bc3a06-366c-4389-bcb4-b9978f002558)
 
-VBA Code can be copy/pasted into VBA module from the file attached to this repository, see (Project_Codename_Generator.xlsm - Module1), or directly below:
+VBA Code can be copy/pasted into VBA module from the file attached to this repository, see (VBA Code - Module 1), or directly below:
 
     Sub GenerateCodeNameWithExpandedAnimalList()
       Dim colors As Variant
